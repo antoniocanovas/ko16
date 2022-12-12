@@ -1,0 +1,20 @@
+[submodule "addons-ic"]
+	path = addons-ic
+	url = https://github.com/antoniocanovas/addons-ic.git
+	branch = 16.0
+[submodule "addons-konery"]
+	path = addons-konery
+	url = https://github.com/antoniocanovas/addons-konery.git
+	branch = 16.0
+[submodule "brand"]
+	path = brand
+	url = https://github.com/oca/brand
+	branch = 16.0
+[submodule "purchase-workflow"]
+	path = purchase-workflow
+	url = https://github.com/oca/purchase-workflow
+	branch = 16.0
+[submodule "l10n-spain"]
+	path = l10n-spain
+	url = https://github.com/oca/l10n-spain
+	branch = 16.0
